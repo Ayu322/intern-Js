@@ -1,2 +1,2 @@
-# intern-Js
-learning js
+# Javascript-React
+React Projects
